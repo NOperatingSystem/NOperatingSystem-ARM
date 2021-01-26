@@ -1,6 +1,5 @@
-![](https://raw.githubusercontent.com/NOperatingSystem/Assets/master/Pictures/logo.png)
-![CI](https://github.com/MoltenCoreDev/noOS/workflows/CI/badge.svg)
-
+# Why does this exist?
+So you can run it on ARM systems like phones, ChromeBooks, some refridgerators, and more.
 
 # Installation
 You don't.
@@ -9,6 +8,7 @@ You don't.
 just run `sh ./build.sh`
 
 # Running
-Just go see the wiki too much text here.
+Use an ARM emulator, like qemu.
+VirtualBox won't work btw (its not an emulator).
 
 *Made by the N Operating System team*
