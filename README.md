@@ -1,8 +1,11 @@
 # Why does this exist?
 So you can run it on ARM systems like phones, ChromeBooks, some refridgerators, and more.
 
-# Installation
-You don't.
+# ARM Programs
+*Note: None of these files, except for ones listed below, will compile and run successfully on ARM.*
+ARM files:
+> None so far
+
 
 # Building
 just run `sh ./build.sh`
