@@ -1,6 +1,14 @@
-# NoOS (ARM)
-This is NoOS, but for ARM.
-All files, unless listed here, are still x86 and haven't been converted yet.
+![](https://raw.githubusercontent.com/NOperatingSystem/Assets/master/Pictures/logo.png)
+![CI](https://github.com/MoltenCoreDev/noOS/workflows/CI/badge.svg)
 
-### Converted Files:
-> None
+
+# Installation
+You don't.
+
+# Building
+just run `sh ./build.sh`
+
+# Running
+Just go see the wiki too much text here.
+
+*Made by the N Operating System team*
